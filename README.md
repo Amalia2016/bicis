@@ -1,0 +1,2 @@
+# bicis
+Data science exercise
